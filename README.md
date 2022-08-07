@@ -1,8 +1,6 @@
-<h1 align="center"> Welcome to my portfolio <img src="https://media.giphy.com/media/Qilx8dKjHI7FP3Mn5K/giphy.gif" width="40px" height="40px"></h1> <hr>
+<h1 align="center"> Welcome to my GitHub profile <img src="https://media.giphy.com/media/Qilx8dKjHI7FP3Mn5K/giphy.gif" width="50px" height="50px"></h1>
 <h3 align="center">An IT enthusiast from Nepal.</h3> <br /> 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="435" />
-
-**Talking about Personal Stuffs:**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="525" />
 
 - I’m currently learning **Web Development**
 
@@ -12,7 +10,7 @@
 
 <br/>
 
-<h3 align="left">Reach me on:</h3>
+<h3 align="left">My Social Media handles</h3>
 
 <p align="left">
 <a href="https://facebook.com/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/SKFsUhe9jUwrRtNPlq/giphy.gif" height="60" width="50" /></a>
