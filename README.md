@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub profile <img src="https://media.giphy.com/media/Qilx8dKjHI7FP3Mn5K/giphy.gif" width="50px" height="50px"></h1>
 <h3 align="center">An IT enthusiast from Nepal.</h3> <br /> 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="525" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="520" />
 
 - I’m currently learning **Web Development**
 
