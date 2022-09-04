@@ -6,7 +6,7 @@
 
 - Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **sudipsigdel.com.np** </a>
 
-- Drop your queries on  **info@sudipsigdel.com.np**
+- Drop your queries on  **hello@sudipsigdel.com.np**
 
 <br/>
 
