@@ -1,9 +1,10 @@
 <h1 align="center"> Welcome to my GitHub profile <img src="https://media.giphy.com/media/Qilx8dKjHI7FP3Mn5K/giphy.gif" width="50px" height="50px"></h1>
-<h3 align="center">An IT enthusiast from Nepal.</h3> <br /> 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="525" height="auto" />
-
+<h3 align="center">An IT enthusiast from Nepal.</h3>
+<br /> 
 
 ![](https://komarev.com/ghpvc/?username=sudipsigdel&style=for-the-badge&label=No+of+Profile+Visitors&color=db0606)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="525" height="auto" />
 
 - I’m currently learning **Web Development**
 
