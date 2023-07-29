@@ -3,7 +3,7 @@
 <br /> 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="525" height="auto" />
 
-![](https://komarev.com/ghpvc/?username=sudipsigdel&style=for-the-badge&label=No+of+Profile+Visitors&color=db0606)
+![](https://komarev.com/ghpvc/?username=sudipsigdel&style=for-the-badge&label=My+Profile+Visitors&color=db0606)
 
 - I’m currently learning **Web Development**
 - Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **sudipsigdel.com.np** </a>
