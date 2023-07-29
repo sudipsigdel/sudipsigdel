@@ -10,7 +10,7 @@
 
 
 <p align="right">
-  <img alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="max-width: 50px;">
+  <img alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="20%" style="max-width: 50px;">
 </p>
 
 <h3>My Social Media handles</h3>
