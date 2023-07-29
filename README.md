@@ -14,7 +14,7 @@
 <a href="https://facebook.com/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/SKFsUhe9jUwrRtNPlq/giphy.gif" height="60" width="50" /></a>
 <a href="https://instagram.com/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/c3u4lpyl64h1scLnko/giphy.gif" height="60" width="50" /></a>
 <a href="https://twitter.com/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" height="60" width="50" /></a>
-<a href="https://linkedin.com/in/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="60" width="50" /></a>
+<a href="https://linkedin.com/in/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="60" width="60" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=sudipsigdel&style=for-the-badge&label=Unique+Visitors&color=db0606)
