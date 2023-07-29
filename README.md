@@ -8,9 +8,9 @@
 
 - Drop your queries on  **hello@sudipsigdel.com.np**
 
-<br/>
-
 <h3 align="left">My Social Media handles</h3>
+
+![](https://komarev.com/ghpvc/?username=sudipsigdel&label=PROFILE+VIEWS)
 
 <p align="left">
 <a href="https://facebook.com/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/SKFsUhe9jUwrRtNPlq/giphy.gif" height="60" width="50" /></a>
