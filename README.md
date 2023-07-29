@@ -5,14 +5,15 @@
   Drop your queries at <a href="mailto:hello@sudipsigdel.com.np">hello@sudipsigdel.com.np</a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80%" height="auto">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" height="auto">
+  <div>
+    <h3>Currently learning</h3>
+    <ul>
+      <li>Web Development</li>
+    </ul>
+  </div>
 </div>
-
-<h3>Currently learning</h3>
-<ul>
-  <li>Web Development</li>
-</ul>
 
 <h3>My Social Media handles</h3>
 <p align="center">
