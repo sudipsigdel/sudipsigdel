@@ -17,4 +17,4 @@
 <a href="https://linkedin.com/in/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="60" width="50" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=sudipsigdel&style=plastic&label=Unique+Visitors&color=red)
+![](https://komarev.com/ghpvc/?username=sudipsigdel&style=for-the-badge&label=Unique+Visitors&color=db0606)
