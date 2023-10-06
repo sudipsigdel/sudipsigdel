@@ -9,9 +9,6 @@
 - Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **sudipsigdel.com.np** </a>
 - Drop your queries on  **hello@sudipsigdel.com.np**
 
-<h3 align="left">My Social Media handles</h3>
+<h3 align="left">Stats</h3>
 
-<p align="left">
-<a href="https://twitter.com/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" height="60" width="50" /></a>
-<a href="https://linkedin.com/in/sudipsigdel2059" target="_blank"> <img align="center" src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="60" width="50" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipsigdel&show_icons=true&locale=en&layout=compact" alt="sudipsigdel" /></p>
