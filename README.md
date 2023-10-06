@@ -9,6 +9,4 @@
 - Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **sudipsigdel.com.np** </a>
 - Drop your queries on  **hello@sudipsigdel.com.np**
 
-<h3 align="left">Stats</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipsigdel&show_icons=true&locale=en&layout=compact" alt="sudipsigdel" /></p>
