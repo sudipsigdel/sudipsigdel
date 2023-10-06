@@ -1,4 +1,3 @@
-[![An image of @sudipsigdel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudipsigdel)](https://holopin.io/@sudipsigdel)
 <h1 align="center"> Welcome to my GitHub profile <img src="https://media.giphy.com/media/Qilx8dKjHI7FP3Mn5K/giphy.gif" width="50px" height="50px"></h1>
 <h3 align="center">An IT enthusiast from Nepal.</h3>
 <br /> 
@@ -48,3 +47,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>  
 </p>
+[![An image of @sudipsigdel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudipsigdel)](https://holopin.io/@sudipsigdel)
