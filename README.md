@@ -11,5 +11,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left>
-  <img src="https://static.javatpoint.com/htmlpages/images/css-tutorial.png" alt="css" width="40" height="40"/>
+  <img src="https://static.javatpoint.com/csspages/images/css-tutorial.png" alt="css" width="40" height="40"/>
 </p>
