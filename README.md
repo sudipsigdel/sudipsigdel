@@ -9,4 +9,5 @@
 - Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **sudipsigdel.com.np** </a>
 - Drop your queries on  **hello@sudipsigdel.com.np**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipsigdel&show_icons=true&locale=en&layout=compact" alt="sudipsigdel" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
