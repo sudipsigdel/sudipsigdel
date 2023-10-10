@@ -47,5 +47,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>  
 </p>
-
-[![An image of @sudipsigdel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudipsigdel)](https://holopin.io/@sudipsigdel)
