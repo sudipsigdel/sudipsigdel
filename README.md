@@ -47,5 +47,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>  
 </p>
-
-<img src="[https://holopin.me/sudipsigdel](https://camo.githubusercontent.com/5d364de6536aa8494b76b03de963b06e37f53e2848044a661fb3b907bddf43d0/68747470733a2f2f686f6c6f70696e2e6d652f737564697073696764656c)https://camo.githubusercontent.com/5d364de6536aa8494b76b03de963b06e37f53e2848044a661fb3b907bddf43d0/68747470733a2f2f686f6c6f70696e2e6d652f737564697073696764656c">
