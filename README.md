@@ -48,4 +48,4 @@
   </a>  
 </p>
 
-![](https://holopin.io/@sudipsigdel)
+[![An image of @sudipsigdel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudipsigdel)](https://holopin.io/@sudipsigdel)
