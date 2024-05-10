@@ -9,6 +9,8 @@
 - Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **sudipsigdel.com.np** </a>
 - Drop your queries on  **hello@sudipsigdel.com.np**
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -47,5 +49,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>  
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipsigdel&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Sudip Sigdel Stats"></p>
 
 [![An image of @sudipsigdel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudipsigdel)](https://holopin.io/@sudipsigdel)
